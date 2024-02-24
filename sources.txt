@@ -1,0 +1,2 @@
+sources:
+gradient animation: https://www.joshwcomeau.com/react/rainbow-button/
